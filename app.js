@@ -1,2 +1,2 @@
 console.log("Hello World");
-console.log("I am new o coding");
+console.log("I am new to coding");
